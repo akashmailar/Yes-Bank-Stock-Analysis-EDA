@@ -38,22 +38,22 @@ To run this project, follow these steps:
 
 1. **Clone this repository:**
    ```
-     git clone https://github.com/akashmailar/Yes-Bank-Stock-Analysis-EDA.git
+   git clone https://github.com/akashmailar/Yes-Bank-Stock-Analysis-EDA.git
    ```
 
 2. **Navigate to the project directory:**
    ```
-     cd Yes-Bank-Stock-Analysis-EDA
+   cd Yes-Bank-Stock-Analysis-EDA
    ```
 
 3. **Install the required Python libraries:**
    ```
-     pip install pandas numpy matplotlib seaborn jupyter
+   pip install pandas numpy matplotlib seaborn jupyter
    ```
 
 4. **Open the Jupyter Notebook:**
    ```
-     jupyter notebook YesBank_StockPrices_EDA.ipynb
+   jupyter notebook YesBank_StockPrices_EDA.ipynb
    ```
 
 ## 📊 Key Insights
@@ -76,13 +76,13 @@ This project is licensed under the **MIT License**.
 
 ## 🤝 Contributing
 
-If you wish to contribute, feel free to fork this repository and submit pull reques
+If you wish to contribute, feel free to fork this repository and submit pull requests.
 
 ## 📞 Contact
 
 For any queries or discussions, reach out via:
-- GitHub: [Akash Mailar](https://github.com/akashmailar)
-- Email: akashmailar16@gmail.com
+- **GitHub:** [Akash Mailar](https://github.com/akashmailar)
+- **Email:** akashmailar16@gmail.com
 
 ---
 
