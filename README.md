@@ -1,2 +1,8 @@
-# Yes-Bank-Stock-Analysis-EDA
-This project performs an exploratory data analysis (EDA) on Yes Bank Stock Prices to extract meaningful insights and trends. The analysis utilizes Python's data science libraries to visualize and understand the behavior of stock prices over time.
+# Yes Bank Stock Prices Analysis
+
+## 📌 Project Type: Exploratory Data Analysis (EDA)
+
+## 👤 Contribution: Individual
+
+### 📖 Project Summary
+This project conducts an **Exploratory Data Analysis (EDA)** of ***Yes Bank***'s stock prices from **July 2005 to November 2020**. The analysis aims to uncover trends, patterns, and insights into the stock price movements over the years. Given Yes Bank's financial turbulence, particularly during the **2020 crisis**, this study helps in understanding the historical fluctuations in stock prices.
