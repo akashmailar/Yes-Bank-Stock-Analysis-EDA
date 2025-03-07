@@ -80,7 +80,9 @@ If you wish to contribute, feel free to fork this repository and submit pull req
 
 ## 📞 Contact
 
-For any queries or discussions, reach out via [Email](akashmailar16@gmail.com).
+For any queries or discussions, reach out via:
+- GitHub: [Akash Mailar](https://github.com/akashmailar)
+- Email: akashmailar16@gmail.com
 
 ---
 
