@@ -82,6 +82,7 @@ If you wish to contribute, feel free to fork this repository and submit pull req
 
 For any queries or discussions, reach out via:
 - **GitHub:** [Akash Mailar](https://github.com/akashmailar)
+  
 - **Email:** akashmailar16@gmail.com
 
 ---
