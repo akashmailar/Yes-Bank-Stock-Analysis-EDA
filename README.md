@@ -19,3 +19,69 @@ The dataset contains historical stock price information of ***Yes Bank*** with t
 - **Low Price:** The lowest stock price recorded during the month.
 
 - **Close Price:** The stock price at the end of the month.
+
+## 📌 Technologies Used
+
+- **Python**
+
+- **Pandas**
+
+- **NumPy**
+
+- **Matplotlib** & **Seaborn** (for visualization)
+
+- **Jupyter Notebook**
+
+## ⚙️ Installation & Setup
+
+To run this project, follow these steps:
+
+1. **Clone this repository:**
+   ```
+     git clone https://github.com/akashmailar/Yes-Bank-Stock-Analysis-EDA.git
+   ```
+
+2. **Navigate to the project directory:**
+   ```
+     cd Yes-Bank-Stock-Analysis-EDA
+   ```
+
+3. **Install the required Python libraries:**
+   ```
+     pip install pandas numpy matplotlib seaborn jupyter
+   ```
+
+4. **Open the Jupyter Notebook:**
+   ```
+     jupyter notebook YesBank_StockPrices_EDA.ipynb
+   ```
+
+## 📊 Key Insights
+
+- Visualized the stock price trends over time.
+
+- Analyzed moving averages to detect trends.
+
+- Identified high volatility periods in stock prices.
+
+- Examined correlations between different stock price attributes.
+
+## 📌 Results & Conclusion
+
+The analysis provides a comprehensive understanding of ***Yes Bank***'s stock price behavior, helping investors and analysts make data-driven decisions.
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+## 🤝 Contributing
+
+If you wish to contribute, feel free to fork this repository and submit pull reques
+
+## 📞 Contact
+
+For any queries or discussions, reach out via [Email](akashmailar16@gmail.com).
+
+---
+
+## Thank You!
