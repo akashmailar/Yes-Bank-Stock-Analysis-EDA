@@ -1,4 +1,4 @@
-# Yes Bank Stock Prices Analysis
+# **Yes Bank Stock Prices Analysis**
 
 ### 📌 Project Type: Exploratory Data Analysis (EDA)
 
